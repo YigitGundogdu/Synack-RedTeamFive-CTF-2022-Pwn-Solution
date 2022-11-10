@@ -1,0 +1,1 @@
+# Synack-RedTeamFive-Open-Invitational-CTF-2022-Pwn-challenge-JohnyBGoode-Solution
